@@ -76,4 +76,4 @@ and, `pwd`, `rm`, `touch`, `vash`(, `which`) command exist but, now I abridgemen
 That's all, thank you...(?)
 
 
-<small>Copyright 2021 Sorakime. Available with [monochrome. License](https://sorakime.github.io/source/license.txt)
+<small>Copyright 2021 Sorakime. Available with [monochrome. License](https://sorakime.github.io/source/license.txt)</small>
